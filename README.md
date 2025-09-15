@@ -11,4 +11,4 @@ Este repositorio contiene un ejemplo práctico de instalación y ejecución de `
 - Configuración de repositorios y llaves GPG de Red Hat  
 - Instalación de la herramienta  
 - Ejecución del proceso de conversión con credenciales de Red Hat  
-- Configuración del firewall para permitir acceso al puerto 9090  
+- Configuración del firewall para permitir acceso al puerto 9090 a su consola web 
